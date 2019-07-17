@@ -12,7 +12,7 @@ Notes:
 
 Common github commands for reference:
 * `git status`: check what has been added, changed, what branch you are on
-* more
+* TIP: git will often provide suggestions for what you probably meant. These suggestions are almost always correct, and you should follow this advice.
 
 
 More information about git: https://www.smashwords.com/books/view/498426
